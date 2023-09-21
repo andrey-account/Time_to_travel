@@ -11,7 +11,7 @@ android {
     compileSdk 34
 
     defaultConfig {
-        applicationId "ru.andrey.time_to_trave"
+        applicationId "ru.andrey.time_to_travel"
         minSdk 26
         targetSdk 34
         versionCode 1
